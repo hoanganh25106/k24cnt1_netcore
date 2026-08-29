@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson04Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0905CD-B679-CD44-CE63-620945C2FDAC}|vhaLesson04Lab\\vhaLesson04Lab.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhalesson04lab\\vhalesson04lab\\views\\vhaaccount\\vhaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B0905CD-B679-CD44-CE63-620945C2FDAC}|vhaLesson04Lab\\vhaLesson04Lab.csproj|solutionrelative:vhalesson04lab\\views\\vhaaccount\\vhaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0905CD-B679-CD44-CE63-620945C2FDAC}|vhaLesson04Lab\\vhaLesson04Lab.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhalesson04lab\\vhalesson04lab\\controllers\\vhaaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0905CD-B679-CD44-CE63-620945C2FDAC}|vhaLesson04Lab\\vhaLesson04Lab.csproj|solutionrelative:vhalesson04lab\\controllers\\vhaaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0905CD-B679-CD44-CE63-620945C2FDAC}|vhaLesson04Lab\\vhaLesson04Lab.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhalesson04lab\\vhalesson04lab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B0905CD-B679-CD44-CE63-620945C2FDAC}|vhaLesson04Lab\\vhaLesson04Lab.csproj|solutionrelative:vhalesson04lab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0905CD-B679-CD44-CE63-620945C2FDAC}|vhaLesson04Lab\\vhaLesson04Lab.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhalesson04lab\\vhalesson04lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0905CD-B679-CD44-CE63-620945C2FDAC}|vhaLesson04Lab\\vhaLesson04Lab.csproj|solutionrelative:vhalesson04lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0905CD-B679-CD44-CE63-620945C2FDAC}|vhaLesson04Lab\\vhaLesson04Lab.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhalesson04lab\\vhalesson04lab\\views\\vhaaccount\\vhaprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B0905CD-B679-CD44-CE63-620945C2FDAC}|vhaLesson04Lab\\vhaLesson04Lab.csproj|solutionrelative:vhalesson04lab\\views\\vhaaccount\\vhaprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0905CD-B679-CD44-CE63-620945C2FDAC}|vhaLesson04Lab\\vhaLesson04Lab.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhalesson04lab\\vhalesson04lab\\models\\vhaaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0905CD-B679-CD44-CE63-620945C2FDAC}|vhaLesson04Lab\\vhaLesson04Lab.csproj|solutionrelative:vhalesson04lab\\models\\vhaaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson04Lab\\vhaLesson04Lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "vhaLesson04Lab\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson04Lab\\vhaLesson04Lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "vhaLesson04Lab\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T08:38:00.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson04Lab\\vhaLesson04Lab\\Program.cs",
+              "RelativeDocumentMoniker": "vhaLesson04Lab\\Program.cs",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson04Lab\\vhaLesson04Lab\\Program.cs",
+              "RelativeToolTip": "vhaLesson04Lab\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T08:34:50.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vhaProfile.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson04Lab\\vhaLesson04Lab\\Views\\vhaAccount\\vhaProfile.cshtml",
+              "RelativeDocumentMoniker": "vhaLesson04Lab\\Views\\vhaAccount\\vhaProfile.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson04Lab\\vhaLesson04Lab\\Views\\vhaAccount\\vhaProfile.cshtml",
+              "RelativeToolTip": "vhaLesson04Lab\\Views\\vhaAccount\\vhaProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T08:13:46.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vhaAccount.cs",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson04Lab\\vhaLesson04Lab\\Models\\vhaAccount.cs",
+              "RelativeDocumentMoniker": "vhaLesson04Lab\\Models\\vhaAccount.cs",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson04Lab\\vhaLesson04Lab\\Models\\vhaAccount.cs",
+              "RelativeToolTip": "vhaLesson04Lab\\Models\\vhaAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T07:23:16.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vhaIndex.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson04Lab\\vhaLesson04Lab\\Views\\vhaAccount\\vhaIndex.cshtml",
+              "RelativeDocumentMoniker": "vhaLesson04Lab\\Views\\vhaAccount\\vhaIndex.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson04Lab\\vhaLesson04Lab\\Views\\vhaAccount\\vhaIndex.cshtml",
+              "RelativeToolTip": "vhaLesson04Lab\\Views\\vhaAccount\\vhaIndex.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T07:09:18.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vhaAccountController.cs",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson04Lab\\vhaLesson04Lab\\Controllers\\vhaAccountController.cs",
+              "RelativeDocumentMoniker": "vhaLesson04Lab\\Controllers\\vhaAccountController.cs",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson04Lab\\vhaLesson04Lab\\Controllers\\vhaAccountController.cs",
+              "RelativeToolTip": "vhaLesson04Lab\\Controllers\\vhaAccountController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAADwv18AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T02:05:12.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
