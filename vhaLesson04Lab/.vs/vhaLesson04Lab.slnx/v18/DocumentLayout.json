@@ -46,8 +46,7 @@
               "RelativeToolTip": "vhaLesson04Lab\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-29T08:38:00.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-29T08:38:00.826Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "vhaLesson04Lab\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwCIAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T08:34:50.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-29T08:34:50.17Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "vhaLesson04Lab\\Views\\vhaAccount\\vhaProfile.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-29T08:13:46.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-29T08:13:46.798Z"
             },
             {
               "$type": "Document",
@@ -85,8 +82,7 @@
               "RelativeToolTip": "vhaLesson04Lab\\Models\\vhaAccount.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T07:23:16.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-29T07:23:16.318Z"
             },
             {
               "$type": "Document",
@@ -96,7 +92,7 @@
               "RelativeDocumentMoniker": "vhaLesson04Lab\\Views\\vhaAccount\\vhaIndex.cshtml",
               "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson04Lab\\vhaLesson04Lab\\Views\\vhaAccount\\vhaIndex.cshtml",
               "RelativeToolTip": "vhaLesson04Lab\\Views\\vhaAccount\\vhaIndex.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-29T07:09:18.787Z",
               "EditorCaption": ""
@@ -111,8 +107,7 @@
               "RelativeToolTip": "vhaLesson04Lab\\Controllers\\vhaAccountController.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAADwv18AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T02:05:12.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-29T02:05:12.04Z"
             }
           ]
         }
