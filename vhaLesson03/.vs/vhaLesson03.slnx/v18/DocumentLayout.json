@@ -55,8 +55,7 @@
               "RelativeToolTip": "vhaLesson03\\Views\\vhaProduct\\vhaGetAllProduct.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-28T16:58:47.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-28T16:58:47.811Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "vhaLesson03\\Views\\VhaGetAllProduct.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAowDQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-28T16:53:09.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-28T16:53:09.948Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "vhaLesson03\\Controllers\\vhaProductController.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAQwFYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T16:49:42.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-28T16:49:42.543Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "vhaLesson03\\Models\\vhaProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T16:27:25.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-28T16:27:25.14Z"
             }
           ]
         }
