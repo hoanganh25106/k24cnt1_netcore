@@ -1,0 +1,44 @@
+@model vhaLesson07Models.Models.DataModels.vhaMember
+
+@{
+    ViewData["Title"] = "Create";
+}
+<div class="card p-3">
+    <h1>Thêm mới thành viên</h1>
+    <hr />
+    <di class="row">
+        <div class="col-md-4">
+            <form asp-action="Create" method="post" asp-controller="vhaMember">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="vhaUserName" class="control-label"></label>
+                    <input asp-for="vhaUserName" class="form-control" />
+                    <span asp-validation-for="vhaUserName" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="vhaPassword" class="control-label"></label>
+                    <input asp-for="vhaPassword" class="form-control" />
+                    <span asp-validation-for="vhaPassword" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="vhaFullName" class="control-label"></label>
+                    <input asp-for="vhaFullName" class="form-control" />
+                    <span asp-validation-for="vhaFullName" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="vhaEmail" class="control-label"></label>
+                    <input asp-for="vhaEmail" class="form-control" />
+                    <span asp-validation-for="vhaEmail" class="text-danger"></span>
+                </div>
+                <div class="form-group my-2">
+                    <input type="submit" value="Ghi lại"  class="btn btn-primary" />
+                    <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

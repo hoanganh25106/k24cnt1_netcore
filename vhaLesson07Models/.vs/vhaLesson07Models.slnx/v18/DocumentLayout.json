@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson07Models\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B7EB80-9FC4-1F29-9381-B12652FF2994}|vhaLesson07Models\\vhaLesson07Models.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhalesson07models\\vhalesson07models\\controllers\\vhamembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B7EB80-9FC4-1F29-9381-B12652FF2994}|vhaLesson07Models\\vhaLesson07Models.csproj|solutionrelative:vhalesson07models\\controllers\\vhamembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B7EB80-9FC4-1F29-9381-B12652FF2994}|vhaLesson07Models\\vhaLesson07Models.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhalesson07models\\vhalesson07models\\views\\vhamember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9B7EB80-9FC4-1F29-9381-B12652FF2994}|vhaLesson07Models\\vhaLesson07Models.csproj|solutionrelative:vhalesson07models\\views\\vhamember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B7EB80-9FC4-1F29-9381-B12652FF2994}|vhaLesson07Models\\vhaLesson07Models.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhalesson07models\\vhalesson07models\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9B7EB80-9FC4-1F29-9381-B12652FF2994}|vhaLesson07Models\\vhaLesson07Models.csproj|solutionrelative:vhalesson07models\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B7EB80-9FC4-1F29-9381-B12652FF2994}|vhaLesson07Models\\vhaLesson07Models.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhalesson07models\\vhalesson07models\\views\\vhamember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9B7EB80-9FC4-1F29-9381-B12652FF2994}|vhaLesson07Models\\vhaLesson07Models.csproj|solutionrelative:vhalesson07models\\views\\vhamember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B7EB80-9FC4-1F29-9381-B12652FF2994}|vhaLesson07Models\\vhaLesson07Models.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhalesson07models\\vhalesson07models\\views\\vhamember\\getmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9B7EB80-9FC4-1F29-9381-B12652FF2994}|vhaLesson07Models\\vhaLesson07Models.csproj|solutionrelative:vhalesson07models\\views\\vhamember\\getmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B7EB80-9FC4-1F29-9381-B12652FF2994}|vhaLesson07Models\\vhaLesson07Models.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhalesson07models\\vhalesson07models\\views\\vhamember\\getmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9B7EB80-9FC4-1F29-9381-B12652FF2994}|vhaLesson07Models\\vhaLesson07Models.csproj|solutionrelative:vhalesson07models\\views\\vhamember\\getmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B7EB80-9FC4-1F29-9381-B12652FF2994}|vhaLesson07Models\\vhaLesson07Models.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhalesson07models\\vhalesson07models\\models\\datamodels\\vhamember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B7EB80-9FC4-1F29-9381-B12652FF2994}|vhaLesson07Models\\vhaLesson07Models.csproj|solutionrelative:vhalesson07models\\models\\datamodels\\vhamember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson07Models\\vhaLesson07Models\\Views\\vhaMember\\Create.cshtml",
+              "RelativeDocumentMoniker": "vhaLesson07Models\\Views\\vhaMember\\Create.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson07Models\\vhaLesson07Models\\Views\\vhaMember\\Create.cshtml",
+              "RelativeToolTip": "vhaLesson07Models\\Views\\vhaMember\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-13T05:25:37.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson07Models\\vhaLesson07Models\\Views\\vhaMember\\Index.cshtml",
+              "RelativeDocumentMoniker": "vhaLesson07Models\\Views\\vhaMember\\Index.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson07Models\\vhaLesson07Models\\Views\\vhaMember\\Index.cshtml",
+              "RelativeToolTip": "vhaLesson07Models\\Views\\vhaMember\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-13T05:17:07.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson07Models\\vhaLesson07Models\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "vhaLesson07Models\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson07Models\\vhaLesson07Models\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "vhaLesson07Models\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-13T05:08:44.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vhaMemberController.cs",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson07Models\\vhaLesson07Models\\Controllers\\vhaMemberController.cs",
+              "RelativeDocumentMoniker": "vhaLesson07Models\\Controllers\\vhaMemberController.cs",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson07Models\\vhaLesson07Models\\Controllers\\vhaMemberController.cs",
+              "RelativeToolTip": "vhaLesson07Models\\Controllers\\vhaMemberController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAADwv2gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T04:55:02.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetMembers.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson07Models\\vhaLesson07Models\\Views\\vhaMember\\GetMembers.cshtml",
+              "RelativeDocumentMoniker": "vhaLesson07Models\\Views\\vhaMember\\GetMembers.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson07Models\\vhaLesson07Models\\Views\\vhaMember\\GetMembers.cshtml",
+              "RelativeToolTip": "vhaLesson07Models\\Views\\vhaMember\\GetMembers.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-13T04:48:07.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetMember.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson07Models\\vhaLesson07Models\\Views\\vhaMember\\GetMember.cshtml",
+              "RelativeDocumentMoniker": "vhaLesson07Models\\Views\\vhaMember\\GetMember.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson07Models\\vhaLesson07Models\\Views\\vhaMember\\GetMember.cshtml",
+              "RelativeToolTip": "vhaLesson07Models\\Views\\vhaMember\\GetMember.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-13T04:47:53.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "vhaMember.cs",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson07Models\\vhaLesson07Models\\Models\\DataModels\\vhaMember.cs",
+              "RelativeDocumentMoniker": "vhaLesson07Models\\Models\\DataModels\\vhaMember.cs",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson07Models\\vhaLesson07Models\\Models\\DataModels\\vhaMember.cs",
+              "RelativeToolTip": "vhaLesson07Models\\Models\\DataModels\\vhaMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T04:44:30.289Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

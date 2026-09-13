@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Thông  tin member";
+    var member = Model as vhaLesson07Models.Models.DataModels.vhaMember;
+}
+<div class="alert alert-info">
+    <h1>@ViewData["Title"]</h1>
+    @* <p>Member id: @ViewBag.Member.TvcMemberId</p>
+    <p>UserName: @ViewBag.Member.TvcUserName</p>
+    <p>UserName: @ViewBag.Member.TvcPassword</p>
+    <p>UserName: @ViewBag.Member.TvcFullName</p>
+    <p>UserName: @ViewBag.Member.TvcEmail</p> *@
+
+    <p>Memberid: @member.vhaMemberId</p>
+    <p>UserName: @member.vhaUserName</p>
+    <p>UserName: @member.vhaPassword</p>
+    <p>UserName: @member.vhaFullName</p>
+    <p>UserName: @member.vhaEmail</p>
+</div>
