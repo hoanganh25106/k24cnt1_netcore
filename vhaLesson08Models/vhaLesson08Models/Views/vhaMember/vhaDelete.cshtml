@@ -1,0 +1,52 @@
+@model vhaLesson08Models.Models.vhaMember
+
+@{
+    ViewData["Title"] = "vhaDelete";
+}
+
+<h1>vhaDelete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>vhaMember</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.vhaMemberId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.vhaMemberId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.vhaUserName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.vhaUserName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.vhaPassword)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.vhaPassword)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.vhaFullName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.vhaFullName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.vhaEmail)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.vhaEmail)
+        </dd>
+    </dl>
+
+    <form asp-action="vhaDeleted">
+        <input name="id" value="@Model.vhaMemberId" type="hidden" />
+
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Quay lại</a>
+    </form>
+</div>
