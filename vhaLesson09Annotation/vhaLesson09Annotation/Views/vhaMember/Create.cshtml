@@ -1,0 +1,60 @@
+﻿@model vhaLesson09Annotation.Models.DataViewModels.vhaMemberRegister
+@{
+    ViewData["Title"] = "Create New Member";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h4>Thông tin thành viên</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group mb-3">
+                <label asp-for="vhaUserName" class="control-label"></label>
+                <input asp-for="vhaUserName" class="form-control" />
+                <span asp-validation-for="vhaUserName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="vhaPassword" class="control-label"></label>
+                <input asp-for="vhaPassword" type="password" class="form-control" />
+                <span asp-validation-for="vhaPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="vhaEmail" class="control-label"></label>
+                <input asp-for="vhaEmail" class="form-control" />
+                <span asp-validation-for="vhaEmail" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="vhaPhoneNumber" class="control-label"></label>
+                <input asp-for="vhaPhoneNumber" class="form-control" />
+                <span asp-validation-for="vhaPhoneNumber" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="vhaFullName" class="control-label"></label>
+                <input asp-for="vhaFullName" class="form-control" />
+                <span asp-validation-for="vhaFullName" class="text-danger"></span>
+            </div>
+
+             <div class="form-group mb-3">
+                <label asp-for="vhaBirthday" class="control-label"></label>
+                <input asp-for="vhaBirthday" class="form-control" />
+                <span asp-validation-for="vhaBirthday" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
