@@ -58,8 +58,7 @@
               "RelativeToolTip": "vhaLesson09Annotation\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-23T07:41:15.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T07:41:15.429Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "vhaLesson09Annotation\\Views\\vhaMember\\Create.cshtml",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-23T07:45:46.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T07:45:46.066Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "vhaLesson09Annotation\\Views\\vhaMember\\Index.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAswEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-23T07:05:18.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T07:05:18.389Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "vhaLesson09Annotation\\Models\\DataViewModels\\vhaMemberRegister.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T01:03:46.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T01:03:46.638Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "vhaLesson09Annotation\\Models\\DataModel\\vhaMember.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T00:59:02.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T00:59:02.873Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "vhaLesson09Annotation\\Views\\Home\\vhaAbout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-23T00:56:22.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T00:56:22.188Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "vhaLesson09Annotation\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T00:54:25.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T00:54:25.329Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "vhaLesson09Annotation\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-23T00:53:25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T00:53:25Z"
             }
           ]
         }
