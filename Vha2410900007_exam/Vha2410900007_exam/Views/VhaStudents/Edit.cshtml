@@ -1,0 +1,59 @@
+@model Vha2410900007_exam.Models.VhaStudent
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1 class="text-warning mb-3">Edit</h1>
+
+<h4 class="text-muted">VhaStudent</h4>
+<hr />
+<div class="row">
+    <div class="col-md-6 col-lg-5">
+        <form asp-action="Edit" class="card p-4 shadow-sm bg-light border-warning-subtle">
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group mb-3">
+                <label asp-for="VhaName" class="form-label fw-bold"></label>
+                <input asp-for="VhaName" class="form-control" />
+                <span asp-validation-for="VhaName" class="text-danger small"></span>
+            </div>
+            <div class="form-group form-check mb-3 ms-1">
+                <input asp-for="VhaGender" class="form-check-input" type="checkbox" />
+                <label asp-for="VhaGender" class="form-check-label fw-bold"></label>
+                <span asp-validation-for="VhaGender" class="text-danger small d-block"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="VhaBirthDay" class="form-label fw-bold"></label>
+                <input asp-for="VhaBirthDay" class="form-control" type="date" />
+                <span asp-validation-for="VhaBirthDay" class="text-danger small"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="VhaEmail" class="form-label fw-bold"></label>
+                <input asp-for="VhaEmail" class="form-control" type="email" />
+                <span asp-validation-for="VhaEmail" class="text-danger small"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="VhaPhone" class="form-label fw-bold"></label>
+                <input asp-for="VhaPhone" class="form-control" type="tel" />
+                <span asp-validation-for="VhaPhone" class="text-danger small"></span>
+            </div>
+            <div class="form-group form-check mb-4 ms-1">
+                <input asp-for="VhaActive" class="form-check-input" type="checkbox" />
+                <label asp-for="VhaActive" class="form-check-label fw-bold"></label>
+                <span asp-validation-for="VhaActive" class="text-danger small d-block"></span>
+            </div>
+            <div class="form-group d-grid gap-2">
+                <input type="submit" value="Save Changes" class="btn btn-warning btn-lg text-dark fw-bold" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="mt-3">
+    <a asp-action="Index" class="btn btn-outline-secondary"><i class="bi bi-arrow-left"></i> Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

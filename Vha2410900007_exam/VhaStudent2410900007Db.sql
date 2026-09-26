@@ -1,0 +1,11 @@
+﻿INSERT INTO VhaStudent
+(
+    VhaName,
+    VhaGender,
+    VhaBirthDay,
+    VhaEmail,
+    VhaPhone,
+    VhaActive
+)
+VALUES
+(N'Vũ Hoàng Anh', 1, '2006-10-25', 'hoanganhcuti2202@gmail.com', '0866187569', 1)

@@ -1,0 +1,69 @@
+@model Vha2410900007_exam.Models.VhaStudent
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1 class="text-danger mb-3">Delete</h1>
+
+<h3 class="alert alert-danger py-2"><i class="bi bi-exclamation-triangle-fill"></i> Are you sure you want to delete this?</h3>
+<div>
+    <h4 class="text-muted">VhaStudent Information</h4>
+    <hr />
+    <div class="card p-4 shadow-sm border-danger mb-4 bg-light">
+        <dl class="row mb-2">
+            <dt class = "col-sm-3 col-md-2 text-secondary">
+                @Html.DisplayNameFor(model => model.VhaName)
+            </dt>
+            <dd class = "col-sm-9 col-md-10 fw-bold">
+                @Html.DisplayFor(model => model.VhaName)
+            </dd>
+        </dl>
+        <dl class="row mb-2">
+            <dt class = "col-sm-3 col-md-2 text-secondary">
+                @Html.DisplayNameFor(model => model.VhaGender)
+            </dt>
+            <dd class = "col-sm-9 col-md-10">
+                @Html.DisplayFor(model => model.VhaGender)
+            </dd>
+        </dl>
+        <dl class="row mb-2">
+            <dt class = "col-sm-3 col-md-2 text-secondary">
+                @Html.DisplayNameFor(model => model.VhaBirthDay)
+            </dt>
+            <dd class = "col-sm-9 col-md-10">
+                @Html.DisplayFor(model => model.VhaBirthDay)
+            </dd>
+        </dl>
+        <dl class="row mb-2">
+            <dt class = "col-sm-3 col-md-2 text-secondary">
+                @Html.DisplayNameFor(model => model.VhaEmail)
+            </dt>
+            <dd class = "col-sm-9 col-md-10">
+                @Html.DisplayFor(model => model.VhaEmail)
+            </dd>
+        </dl>
+        <dl class="row mb-2">
+            <dt class = "col-sm-3 col-md-2 text-secondary">
+                @Html.DisplayNameFor(model => model.VhaPhone)
+            </dt>
+            <dd class = "col-sm-9 col-md-10">
+                @Html.DisplayFor(model => model.VhaPhone)
+            </dd>
+        </dl>
+        <dl class="row mb-0">
+            <dt class = "col-sm-3 col-md-2 text-secondary">
+                @Html.DisplayNameFor(model => model.VhaActive)
+            </dt>
+            <dd class = "col-sm-9 col-md-10">
+                @Html.DisplayFor(model => model.VhaActive)
+            </dd>
+        </dl>
+    </div>
+    <form asp-action="Delete" class="d-flex align-items-center gap-2">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete Now" class="btn btn-danger px-4" />
+        <span class="text-muted">|</span>
+        <a asp-action="Index" class="btn btn-outline-secondary">Back to List</a>
+    </form>
+</div>
