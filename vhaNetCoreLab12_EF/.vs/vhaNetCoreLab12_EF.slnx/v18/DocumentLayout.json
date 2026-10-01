@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorelab12_ef\\vhanetcorelab11_ef\\vhanetcorelab12_ef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|solutionrelative:vhanetcorelab11_ef\\vhanetcorelab12_ef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorelab12_ef\\vhanetcorelab11_ef\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|solutionrelative:vhanetcorelab11_ef\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorelab12_ef\\vhanetcorelab11_ef\\views\\vhacategories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|solutionrelative:vhanetcorelab11_ef\\views\\vhacategories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorelab12_ef\\vhanetcorelab11_ef\\views\\vhacategories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|solutionrelative:vhanetcorelab11_ef\\views\\vhacategories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorelab12_ef\\vhanetcorelab11_ef\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|solutionrelative:vhanetcorelab11_ef\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorelab12_ef\\vhanetcorelab11_ef\\views\\vhacategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|solutionrelative:vhanetcorelab11_ef\\views\\vhacategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorelab12_ef\\vhanetcorelab11_ef\\views\\vhacategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|solutionrelative:vhanetcorelab11_ef\\views\\vhacategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorelab12_ef\\vhanetcorelab11_ef\\views\\vhacategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|solutionrelative:vhanetcorelab11_ef\\views\\vhacategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorelab12_ef\\vhanetcorelab11_ef\\controllers\\vhacategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|solutionrelative:vhanetcorelab11_ef\\controllers\\vhacategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorelab12_ef\\vhanetcorelab11_ef\\migrations\\20260930020952_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|solutionrelative:vhanetcorelab11_ef\\migrations\\20260930020952_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorelab12_ef\\vhanetcorelab11_ef\\models\\vhaproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|solutionrelative:vhanetcorelab11_ef\\models\\vhaproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorelab12_ef\\vhanetcorelab11_ef\\models\\vhacategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|solutionrelative:vhanetcorelab11_ef\\models\\vhacategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorelab12_ef\\vhanetcorelab11_ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|solutionrelative:vhanetcorelab11_ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorelab12_ef\\vhanetcorelab11_ef\\entities\\vhaappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|solutionrelative:vhanetcorelab11_ef\\entities\\vhaappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorelab12_ef\\vhanetcorelab11_ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE550686-4825-8412-A95C-B31910269C33}|vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj|solutionrelative:vhanetcorelab11_ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Views\\vhaCategories\\Details.cshtml",
+              "RelativeDocumentMoniker": "vhaNetCoreLab11_EF\\Views\\vhaCategories\\Details.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Views\\vhaCategories\\Details.cshtml",
+              "RelativeToolTip": "vhaNetCoreLab11_EF\\Views\\vhaCategories\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T06:46:14.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Views\\vhaCategories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "vhaNetCoreLab11_EF\\Views\\vhaCategories\\Delete.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Views\\vhaCategories\\Delete.cshtml",
+              "RelativeToolTip": "vhaNetCoreLab11_EF\\Views\\vhaCategories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T06:45:48.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "vhaNetCoreLab11_EF\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "vhaNetCoreLab11_EF\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T06:30:57.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "vhaNetCoreLab11_EF\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "vhaNetCoreLab11_EF\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBwAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T06:16:17.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Views\\vhaCategories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "vhaNetCoreLab11_EF\\Views\\vhaCategories\\Edit.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Views\\vhaCategories\\Edit.cshtml",
+              "RelativeToolTip": "vhaNetCoreLab11_EF\\Views\\vhaCategories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T02:33:45.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Views\\vhaCategories\\Create.cshtml",
+              "RelativeDocumentMoniker": "vhaNetCoreLab11_EF\\Views\\vhaCategories\\Create.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Views\\vhaCategories\\Create.cshtml",
+              "RelativeToolTip": "vhaNetCoreLab11_EF\\Views\\vhaCategories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T02:32:12.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Views\\vhaCategories\\Index.cshtml",
+              "RelativeDocumentMoniker": "vhaNetCoreLab11_EF\\Views\\vhaCategories\\Index.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Views\\vhaCategories\\Index.cshtml",
+              "RelativeToolTip": "vhaNetCoreLab11_EF\\Views\\vhaCategories\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T02:28:48.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "vhaCategoriesController.cs",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Controllers\\vhaCategoriesController.cs",
+              "RelativeDocumentMoniker": "vhaNetCoreLab11_EF\\Controllers\\vhaCategoriesController.cs",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Controllers\\vhaCategoriesController.cs",
+              "RelativeToolTip": "vhaNetCoreLab11_EF\\Controllers\\vhaCategoriesController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowF4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T02:26:19.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260930020952_v1.cs",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Migrations\\20260930020952_v1.cs",
+              "RelativeDocumentMoniker": "vhaNetCoreLab11_EF\\Migrations\\20260930020952_v1.cs",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Migrations\\20260930020952_v1.cs",
+              "RelativeToolTip": "vhaNetCoreLab11_EF\\Migrations\\20260930020952_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T02:09:52.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vhaNetCoreLab12_EF.csproj",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj",
+              "RelativeDocumentMoniker": "vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj",
+              "RelativeToolTip": "vhaNetCoreLab11_EF\\vhaNetCoreLab12_EF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-30T01:58:33.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "vhaProducts.cs",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Models\\vhaProducts.cs",
+              "RelativeDocumentMoniker": "vhaNetCoreLab11_EF\\Models\\vhaProducts.cs",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Models\\vhaProducts.cs",
+              "RelativeToolTip": "vhaNetCoreLab11_EF\\Models\\vhaProducts.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA1wB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T01:39:54.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "vhaCategory.cs",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Models\\vhaCategory.cs",
+              "RelativeDocumentMoniker": "vhaNetCoreLab11_EF\\Models\\vhaCategory.cs",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Models\\vhaCategory.cs",
+              "RelativeToolTip": "vhaNetCoreLab11_EF\\Models\\vhaCategory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T01:38:08.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Program.cs",
+              "RelativeDocumentMoniker": "vhaNetCoreLab11_EF\\Program.cs",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Program.cs",
+              "RelativeToolTip": "vhaNetCoreLab11_EF\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T01:30:18.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "vhaAppDbContext.cs",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Entities\\vhaAppDbContext.cs",
+              "RelativeDocumentMoniker": "vhaNetCoreLab11_EF\\Entities\\vhaAppDbContext.cs",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\Entities\\vhaAppDbContext.cs",
+              "RelativeToolTip": "vhaNetCoreLab11_EF\\Entities\\vhaAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T01:29:49.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\appsettings.json",
+              "RelativeDocumentMoniker": "vhaNetCoreLab11_EF\\appsettings.json",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLab12_EF\\vhaNetCoreLab11_EF\\appsettings.json",
+              "RelativeToolTip": "vhaNetCoreLab11_EF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-30T01:26:16.786Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
