@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson13Layout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E659E07E-A45A-44E8-8200-F306EB69EFDF}|vhaLesson13Layout\\vhaLesson13Layout.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhalesson13layout\\vhalesson13layout\\views\\shared\\_vhalayouthome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E659E07E-A45A-44E8-8200-F306EB69EFDF}|vhaLesson13Layout\\vhaLesson13Layout.csproj|solutionrelative:vhalesson13layout\\views\\shared\\_vhalayouthome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E659E07E-A45A-44E8-8200-F306EB69EFDF}|vhaLesson13Layout\\vhaLesson13Layout.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhalesson13layout\\vhalesson13layout\\wwwroot\\css\\vhalayouthome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E659E07E-A45A-44E8-8200-F306EB69EFDF}|vhaLesson13Layout\\vhaLesson13Layout.csproj|solutionrelative:vhalesson13layout\\wwwroot\\css\\vhalayouthome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E659E07E-A45A-44E8-8200-F306EB69EFDF}|vhaLesson13Layout\\vhaLesson13Layout.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhalesson13layout\\vhalesson13layout\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E659E07E-A45A-44E8-8200-F306EB69EFDF}|vhaLesson13Layout\\vhaLesson13Layout.csproj|solutionrelative:vhalesson13layout\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E659E07E-A45A-44E8-8200-F306EB69EFDF}|vhaLesson13Layout\\vhaLesson13Layout.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhalesson13layout\\vhalesson13layout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E659E07E-A45A-44E8-8200-F306EB69EFDF}|vhaLesson13Layout\\vhaLesson13Layout.csproj|solutionrelative:vhalesson13layout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E659E07E-A45A-44E8-8200-F306EB69EFDF}|vhaLesson13Layout\\vhaLesson13Layout.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhalesson13layout\\vhalesson13layout\\views\\products\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E659E07E-A45A-44E8-8200-F306EB69EFDF}|vhaLesson13Layout\\vhaLesson13Layout.csproj|solutionrelative:vhalesson13layout\\views\\products\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E659E07E-A45A-44E8-8200-F306EB69EFDF}|vhaLesson13Layout\\vhaLesson13Layout.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhalesson13layout\\vhalesson13layout\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E659E07E-A45A-44E8-8200-F306EB69EFDF}|vhaLesson13Layout\\vhaLesson13Layout.csproj|solutionrelative:vhalesson13layout\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E659E07E-A45A-44E8-8200-F306EB69EFDF}|vhaLesson13Layout\\vhaLesson13Layout.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhalesson13layout\\vhalesson13layout\\views\\products\\hots.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E659E07E-A45A-44E8-8200-F306EB69EFDF}|vhaLesson13Layout\\vhaLesson13Layout.csproj|solutionrelative:vhalesson13layout\\views\\products\\hots.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson13Layout\\vhaLesson13Layout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "vhaLesson13Layout\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson13Layout\\vhaLesson13Layout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "vhaLesson13Layout\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T02:03:40.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vhaLayoutHome.css",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson13Layout\\vhaLesson13Layout\\wwwroot\\css\\vhaLayoutHome.css",
+              "RelativeDocumentMoniker": "vhaLesson13Layout\\wwwroot\\css\\vhaLayoutHome.css",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson13Layout\\vhaLesson13Layout\\wwwroot\\css\\vhaLayoutHome.css",
+              "RelativeToolTip": "vhaLesson13Layout\\wwwroot\\css\\vhaLayoutHome.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-02T01:55:13.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hots.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson13Layout\\vhaLesson13Layout\\Views\\Products\\Hots.cshtml",
+              "RelativeDocumentMoniker": "vhaLesson13Layout\\Views\\Products\\Hots.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson13Layout\\vhaLesson13Layout\\Views\\Products\\Hots.cshtml",
+              "RelativeToolTip": "vhaLesson13Layout\\Views\\Products\\Hots.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T01:50:23.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson13Layout\\vhaLesson13Layout\\Views\\Products\\Search.cshtml",
+              "RelativeDocumentMoniker": "vhaLesson13Layout\\Views\\Products\\Search.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson13Layout\\vhaLesson13Layout\\Views\\Products\\Search.cshtml",
+              "RelativeToolTip": "vhaLesson13Layout\\Views\\Products\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T01:46:42.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson13Layout\\vhaLesson13Layout\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "vhaLesson13Layout\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson13Layout\\vhaLesson13Layout\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "vhaLesson13Layout\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T01:46:56.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson13Layout\\vhaLesson13Layout\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "vhaLesson13Layout\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson13Layout\\vhaLesson13Layout\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "vhaLesson13Layout\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T01:00:22.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_vhaLayoutHome.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson13Layout\\vhaLesson13Layout\\Views\\Shared\\_vhaLayoutHome.cshtml",
+              "RelativeDocumentMoniker": "vhaLesson13Layout\\Views\\Shared\\_vhaLayoutHome.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaLesson13Layout\\vhaLesson13Layout\\Views\\Shared\\_vhaLayoutHome.cshtml",
+              "RelativeToolTip": "vhaLesson13Layout\\Views\\Shared\\_vhaLayoutHome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T00:54:44.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
