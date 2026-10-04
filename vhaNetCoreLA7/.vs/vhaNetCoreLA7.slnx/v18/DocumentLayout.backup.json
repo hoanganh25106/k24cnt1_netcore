@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorela7\\vhanetcorela7\\views\\shared\\_main.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|solutionrelative:vhanetcorela7\\views\\shared\\_main.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorela7\\vhanetcorela7\\areas\\admin\\views\\dashboard\\index.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|solutionrelative:vhanetcorela7\\areas\\admin\\views\\dashboard\\index.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorela7\\vhanetcorela7\\areas\\admin\\views\\category\\index.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|solutionrelative:vhanetcorela7\\areas\\admin\\views\\category\\index.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorela7\\vhanetcorela7\\views\\shared\\_layout.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|solutionrelative:vhanetcorela7\\views\\shared\\_layout.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorela7\\vhanetcorela7\\areas\\admin\\views\\shared\\admin.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|solutionrelative:vhanetcorela7\\areas\\admin\\views\\shared\\admin.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorela7\\vhanetcorela7\\views\\home\\index.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|solutionrelative:vhanetcorela7\\views\\home\\index.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorela7\\vhanetcorela7\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|solutionrelative:vhanetcorela7\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorela7\\vhanetcorela7\\views\\_viewstart.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|solutionrelative:vhanetcorela7\\views\\_viewstart.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorela7\\vhanetcorela7\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|solutionrelative:vhanetcorela7\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorela7\\vhanetcorela7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|solutionrelative:vhanetcorela7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorela7\\vhanetcorela7\\areas\\admin\\views\\_viewstarts.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|solutionrelative:vhanetcorela7\\areas\\admin\\views\\_viewstarts.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|d:\\hoctap(nam3)\\net\\k24cnt1_netcore\\vhanetcorela7\\vhanetcorela7\\areas\\admin\\views\\_viewimports.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{3E0FB9B0-AF10-C758-A1E5-436DDFC2B960}|vhaNetCoreLA7\\vhaNetCoreLA7.csproj|solutionrelative:vhanetcorela7\\areas\\admin\\views\\_viewimports.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "vhaNetCoreLA7\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "vhaNetCoreLA7\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T01:51:45.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "vhaNetCoreLA7\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "vhaNetCoreLA7\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T01:50:32.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "vhaNetCoreLA7\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "vhaNetCoreLA7\\Views\\Shared\\_Layout.cshtml",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T01:44:37.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "vhaNetCoreLA7\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "vhaNetCoreLA7\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T01:29:34.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Program.cs",
+              "RelativeDocumentMoniker": "vhaNetCoreLA7\\Program.cs",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Program.cs",
+              "RelativeToolTip": "vhaNetCoreLA7\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T01:25:52.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "vhaNetCoreLA7\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "vhaNetCoreLA7\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T01:21:51.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStarts.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Areas\\Admin\\Views\\_ViewStarts.cshtml",
+              "RelativeDocumentMoniker": "vhaNetCoreLA7\\Areas\\Admin\\Views\\_ViewStarts.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Areas\\Admin\\Views\\_ViewStarts.cshtml",
+              "RelativeToolTip": "vhaNetCoreLA7\\Areas\\Admin\\Views\\_ViewStarts.cshtml",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T01:15:37.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "vhaNetCoreLA7\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "vhaNetCoreLA7\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T01:14:48.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Areas\\Admin\\Views\\Shared\\Admin.cshtml",
+              "RelativeDocumentMoniker": "vhaNetCoreLA7\\Areas\\Admin\\Views\\Shared\\Admin.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Areas\\Admin\\Views\\Shared\\Admin.cshtml",
+              "RelativeToolTip": "vhaNetCoreLA7\\Areas\\Admin\\Views\\Shared\\Admin.cshtml",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T01:11:54.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "vhaNetCoreLA7\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "vhaNetCoreLA7\\Views\\_ViewStart.cshtml",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T01:03:05.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "vhaNetCoreLA7\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "vhaNetCoreLA7\\Views\\Home\\Index.cshtml",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T01:01:10.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Main.cshtml",
+              "DocumentMoniker": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Views\\Shared\\_Main.cshtml",
+              "RelativeDocumentMoniker": "vhaNetCoreLA7\\Views\\Shared\\_Main.cshtml",
+              "ToolTip": "D:\\HocTap(Nam3)\\NET\\k24cnt1_netcore\\vhaNetCoreLA7\\vhaNetCoreLA7\\Views\\Shared\\_Main.cshtml",
+              "RelativeToolTip": "vhaNetCoreLA7\\Views\\Shared\\_Main.cshtml",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T00:58:06.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
